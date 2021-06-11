@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Lorenzo.000\\Documents\\Unreal Projects\\Abstraction\\Abstraction\\Source\\Abstraction\\Abstraction.Build.cs",
+		"C:\\Users\\Lorenzo.000\\Documents\\Unreal Projects\\Abstraction\\Abstraction\\Source\\Abstraction.Target.cs",
+		"C:\\Users\\Lorenzo.000\\Documents\\Unreal Projects\\Abstraction\\Abstraction\\Source\\AbstractionEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
